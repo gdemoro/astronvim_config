@@ -1,5 +1,6 @@
 return {
   { "Mxrcon/nextflow-vim", lazy=false },
+  { "goolord/alpha-nvim", enabled = false },
   -- "andweeb/presence.nvim",
   -- {
   --   "ray-x/lsp_signature.nvim",
